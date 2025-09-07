@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 23.87 24.29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fcf4e9;
+        stroke: #480809;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke-width: .23px;
+      }
+
+      .cls-4 {
+        fill: #480809;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle id="SVGID" class="cls-1" cx="11.93" cy="11.93" r="10.93"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle class="cls-2" cx="11.93" cy="11.93" r="10.93"/>
+      <g class="cls-5">
+        <rect class="cls-3" x="-5.93" y="3.96" width="31.21" height="4.19" transform="translate(-.5 .89) rotate(-5.11)"/>
+        <rect class="cls-3" x="-5.47" y=".91" width="31.21" height="4.19" transform="translate(.06 -.19) rotate(1.09)"/>
+        <rect class="cls-3" x="-1.64" y="3.08" width="31.21" height="4.19" transform="translate(1.21 -2.52) rotate(10.77)"/>
+        <rect class="cls-3" x="-4.47" y="16.96" width="31.21" height="4.19" transform="translate(-1.65 1.07) rotate(-5.11)"/>
+        <rect class="cls-3" x="-3.1" y="19.65" width="31.21" height="4.19" transform="translate(1.61 -.85) rotate(4.17)"/>
+        <rect class="cls-3" x="-4.47" y="13.48" width="31.21" height="4.19" transform="translate(.3 -.21) rotate(1.09)"/>
+        <rect class="cls-3" x="-5.93" y="13.46" width="31.21" height="4.19" transform="translate(5.12 -2.19) rotate(17.5)"/>
+      </g>
+      <polygon class="cls-3" points="22.73 13.7 22.73 24.17 19.65 24.17 19.65 19.68 22.73 13.7"/>
+      <g>
+        <circle class="cls-4" cx="8.12" cy="10.61" r="1.08"/>
+        <circle class="cls-4" cx="15.74" cy="10.61" r="1.08"/>
+      </g>
+    </g>
+  </g>
+</svg>
